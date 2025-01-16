@@ -18,7 +18,7 @@ Welcome to the **Scratch-Off Calendar** project! This interactive calendar revea
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ruth7873/Maly-is-getting-married>
    ```
 2. **Open the Project:**
    Navigate to the project directory and open the `index.html` file in your favorite browser.
@@ -26,9 +26,6 @@ Welcome to the **Scratch-Off Calendar** project! This interactive calendar revea
 ## Files Structure 📂
 
 - `index.html` - Main HTML file containing the calendar layout.
-- `styles.css` - Inline styles for customizing the calendar's appearance.
-- `script.js` - JavaScript for implementing scratch-off functionality.
-- `assets/` - Folder containing images for the cards and background.
 
 ## How to Use 🖱️
 
@@ -46,7 +43,7 @@ Welcome to the **Scratch-Off Calendar** project! This interactive calendar revea
 ## Credits 🙌
 
 - Chess background and card designs: *Custom images provided in the project.*
-- Developed with ❤️ by [Your Name].
+- Developed with ❤️ by [Ruth7873].
 
 ## License 📜
 
