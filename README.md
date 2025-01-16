@@ -42,8 +42,7 @@ Welcome to the **Scratch-Off Calendar** project! This interactive calendar revea
 
 ## Credits 🙌
 
-- Chess background and card designs: *Custom images provided in the project.*
-- Developed with ❤️ by [Ruth7873].
+- Developed with ❤️ by Ruth7873.
 
 ## License 📜
 
