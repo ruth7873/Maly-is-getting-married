@@ -18,7 +18,7 @@ Welcome to the **Scratch-Off Calendar** project! This interactive calendar revea
 
 1. **Clone the Repository:**
    ```bash
-   git clone <https://github.com/ruth7873/Maly-is-getting-married>
+   git clone https://github.com/ruth7873/Maly-is-getting-married
    ```
 2. **Open the Project:**
    Navigate to the project directory and open the `index.html` file in your favorite browser.
